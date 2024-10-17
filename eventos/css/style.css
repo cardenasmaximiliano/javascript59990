@@ -1,0 +1,16 @@
+body{
+    background-color: white;
+    color: black;
+}
+
+body.modo-noche{
+    background-color: black;
+    color: white;
+}
+
+.pasarRatonCss{
+    width: 200px;
+    height: 200px;
+    background-color: lightblue;
+}
+
